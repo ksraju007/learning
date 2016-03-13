@@ -1,2 +1,2 @@
-# learning
+# Learning
 Trying to learn git.
